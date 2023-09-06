@@ -16,7 +16,7 @@ Se hace uso de las siguientes caracteristicas en el proyecto.
 
 Finalmente el proyecto se puede ver en la plataforma en [GitHub Pages](https://ivan3911.github.io/Gifs_App/) y [Netlify](https://64f8e47c14d2041b6aa920a2--preeminent-cendol-71efda.netlify.app/).
 
-![gifApp](https://github.com/ivan3911/Gifs_App/blob/main/assets/GifApp.png)
+![gifApp](https://github.com/ivan3911/Gifs_App/blob/main/src/assets/GifApp.png)
 
 
 

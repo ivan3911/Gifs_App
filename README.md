@@ -1,6 +1,24 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+El proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+
+Proyecto de Angular para encontrar GIFS del portal https://giphy.com/ por medio de busqueda, guardando el historial en un listado mostrado en la parte izquierda de la página.
+
+Se hace uso de las siguientes caracteristicas en el proyecto.
+
+	-Modularización de la aplicación
+	-Componentes
+	-ViewChild
+	-Servicios
+	-Uso de API Keysjhsdf
+	-Local Storage
+	-Peticiones HTTP
+
+Finalmente el proyecto se puede ver en la plataforma en [GitHub Pages](https://ivan3911.github.io/Gifs_App/) y [Netlify](https://64f8e47c14d2041b6aa920a2--preeminent-cendol-71efda.netlify.app/).
+
+![gifApp](https://github.com/ivan3911/Gifs_App/blob/main/assets/GifApp.png)
+
+
 
 ## Development server
 
